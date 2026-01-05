@@ -24,7 +24,7 @@
 >
 > **Стек:** Java, Spring, Hibernate, PostgreSQL, Flyway, Redis, WebSocket, Feign
 
-![Static Badge](https://img.shields.io/badge/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D1%84%D0%BE%D0%BD%D0%B4%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-repo?style=for-the-badge&color=926eae&link=https%3A%2F%2Fgithub.com%2Faatimoshchuk%2Flibrary_client)
+[![Static Badge](https://img.shields.io/badge/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D1%84%D0%BE%D0%BD%D0%B4%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-repo?style=for-the-badge&color=926eae&link=https%3A%2F%2Fgithub.com%2Faatimoshchuk%2Flibrary_client)](https://github.com/aatimoshchuk/library_client)
 > Десктопное приложение для автоматизации работы библиотек. Представляет собой оболочку над базой данных, предназначенную для хранения и управления информацией о произведениях, изданиях, читателях и т.д. Приложение позволяет:
 > - Регистрировать и редактировать данные читателей
 > - Управлять библиотечным фондом (произведения, издания)
@@ -41,7 +41,7 @@
 </p>
 
 <p align = "center"> 
-Java • Spring • Spring Boot • PostgreSQL • Redis • Hibernate • Flyway • WebSocket • JWT • Docker • Git • Postman • Swagger • Maven • Gradle
+Java • Spring • Spring Boot • PostgreSQL • Redis • Hibernate • Flyway • WebSocket • Feign • JWT • Docker • Git • Postman • Swagger • Maven • Gradle • JavaFX
 </p>
 
 ## Образование:
