@@ -7,13 +7,13 @@
 
 > **Почта:** mitsenisa@gmail.com
 
-## LeetCode:
+<!--## LeetCode:
 <p align="center">
   <a>
     <img src="https://leetcard.jacoblin.cool/mitsenisa?theme=dark&font=Rubik" />
   </a>
 </p>
-
+-->
 ## Мои проекты:
 [![Static Badge](https://img.shields.io/badge/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BD%D1%82-repo?style=for-the-badge&color=926eae&link=https%3A%2F%2Fgithub.com%2Faatimoshchuk%2Fdigital-waiter)](https://github.com/aatimoshchuk/digital-waiter)
 > В рамках практики мы с командой разрабатываем проект **Цифровой официант** - интеллектуальный ассистент для заведений общественного питания. Это сервис для планшетов, установленных на столиках в заведениях общественного питания, позволяющий гостям:
